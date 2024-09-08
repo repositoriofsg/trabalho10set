@@ -95,4 +95,39 @@ Prática 5 - [https://repositoriofsg.github.io/trabalho10set/pratica5/](https://
 
 ### Capítulo 6: Flexbox
 
-em construção
+Conceito de Flexbox.<br>
+**Modo mais eficaz de distribuir e alinhar espaços entre intes em um container, mesmo quando as dimensões dos itens não estão especificadas.**
+
+Container flex:<br>
+**display, flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content, gap, row-gap, column-gap.**
+
+Itens flex:<br>
+**Order, flex-grow, flex-shrink, flex-basis, flex, align-self.**
+
+
+Propriedades do container flex:
+```html
+display: flex;
+flex-direction: row | row-reverse | column | column-reverse;
+flex-wrap: nowrap | wrap | wrap-reverse;
+flex-flow: column wrap;
+justify-content: flex-start | flex-end | center | space-between...;
+align-items: stretch | flex-start | flex-end | center | baseline...;
+align-content: flex-start | flex-end | center | space-between...;
+gap: 10px;
+row-gap: 10px;
+column-gap: 20px;
+```
+
+Propriedades dos itens flex:
+```html
+order: 5;
+flex-grow: 4
+flex-shrink: 3;
+flex-basis: auto;
+align-self: auto | flex-start | flex-end | center | baseline | stretch;
+```
+
+
+Prática 6 - [https://repositoriofsg.github.io/trabalho10set/pratica6/](https://repositoriofsg.github.io/trabalho10set/pratica6/)
+<br>*Criar um layout de galeria de imagens utilizando Flexbox.*
