@@ -95,14 +95,21 @@ Prática 5 - [https://repositoriofsg.github.io/trabalho10set/pratica5/](https://
 
 ### Capítulo 6: Flexbox
 
-Conceito de Flexbox.<br>
-**Modo mais eficaz de distribuir e alinhar espaços entre intes em um container, mesmo quando as dimensões dos itens não estão especificadas.**
+Conceito de Flexbox:
+```html
+Modo mais eficaz de distribuir e alinhar espaços entre intes em um container, mesmo quando as dimensões dos itens não estão especificadas.
+```
 
-Container flex:<br>
-**display, flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content, gap, row-gap, column-gap.**
+Container flex:
 
-Itens flex:<br>
-**Order, flex-grow, flex-shrink, flex-basis, flex, align-self.**
+```html
+display, flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content, gap, row-gap, column-gap
+```
+
+Itens flex:
+```html
+Order, flex-grow, flex-shrink, flex-basis, flex, align-self
+```
 
 
 Propriedades do container flex:
