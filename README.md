@@ -404,7 +404,7 @@ Prática 6 - [https://repositoriofsg.github.io/trabalho10set/pratica6/](https://
   Desenvolver um layout de página simples com cabeçalho, conteúdo principal e rodapé utilizando o CSS Grid.
 
 Grid_Layout - [https://repositoriofsg.github.io/trabalho10set/Grid_Layout/](https://repositoriofsg.github.io/trabalho10set/Grid_Layout/)
----
+
 
 ## Capítulo 8: Estilização Avançada e Animações 
 ### **Objetivo**
@@ -423,7 +423,7 @@ Grid_Layout - [https://repositoriofsg.github.io/trabalho10set/Grid_Layout/](http
   Criar um menu de navegação interativo com animações e efeitos visuais utilizando as propriedades de animação do CSS.
 
 Estilo_Animacao - [https://repositoriofsg.github.io/trabalho10set/Estilo_Animacao/](https://repositoriofsg.github.io/trabalho10set/Estilo_Animacao/)
----
+
 
 ## Capítulo 9: Responsividade e Media Queries
 ### **Objetivo**
@@ -442,7 +442,7 @@ Estilo_Animacao - [https://repositoriofsg.github.io/trabalho10set/Estilo_Animaca
   Desenvolver um layout que se adapta a diferentes tamanhos de tela, usando Media Queries e técnicas de responsividade.
 
 Responsividade_MediaQ - [https://repositoriofsg.github.io/trabalho10set/Responsividade_MediaQ/](https://repositoriofsg.github.io/trabalho10set/Responsividade_MediaQ/)
----
+
 
 ## Capítulo 10: Boas Práticas e Otimização
 ### **Objetivo**
