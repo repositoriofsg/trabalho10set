@@ -1,6 +1,6 @@
 # Consolidação de CSS
 
-**Colaboradores**: Marcio Barcellos, Igor ...., Felipe...
+**Colaboradores**: Marcio Barcellos, Igor Chupel, Felipe ???
 
 
 ## Capitulo 1
@@ -79,6 +79,8 @@ a {
     text-decoration: none;
 }
 ~~~
+
+Exemplo 1 - [https://repositoriofsg.github.io/trabalho10set/Exemplo.1/Ex1.html](https://repositoriofsg.github.io/trabalho10set/Exemplo.1/Ex1.html)
 
 
 ## Capitulo 2
@@ -182,6 +184,7 @@ ul li:nth-child(odd) {
   background-color: gray;
 }
 ~~~
+Exemplo 2 - [https://repositoriofsg.github.io/trabalho10set/Exemplo.2/Ex2.html](https://repositoriofsg.github.io/trabalho10set/Exemplo.2/Ex2.html)
 
 
 ## Capítulo 3
@@ -246,10 +249,8 @@ Ex3css.css
 background: linear-gradient(to right, red, yellow);
 
 ~~~
+Exemplo 3 - [https://repositoriofsg.github.io/trabalho10set/Exemplo.3/Ex3.html](https://repositoriofsg.github.io/trabalho10set/Exemplo.3/Ex3.html)
 
-
-
-<br><br>
 ### Capítulo 4: Tipografia
 
 Fontes web: Font-family, fallback fonts.<br>
