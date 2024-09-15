@@ -1,6 +1,6 @@
 # Consolidação de CSS
 
-**Colaboradores**: Marcio Barcellos, Igor Chupel, Felipe ???
+**Colaboradores**: Marcio Barcellos, Igor Chupel, Felipe Maciel Flôr
 
 
 ## Capitulo 1
